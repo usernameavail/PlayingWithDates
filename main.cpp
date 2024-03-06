@@ -1,17 +1,3 @@
-// *******************************************************************************
-// *******************************************************************************
-// * Name: main *
-// * Class: COP3330 *
-// * Description: Test driver for the date class, Assignment #2, COP3330. *
-// * Tests to see if all of the methods have been declared in *
-// * accordance with the specifications AND if the files have *
-// * named properly. *
-// * Author: Dr. David A. Gaitros *
-// * MODIFIED BY : SHAWN PLAIN
-// * date: FEB 02 2024 *
-// * Copyright: This file is for use by students at Florida State University *
-// * for the COP3330 course. *
-// *******************************************************************************
 
 #include <iostream>
 #include "date.h"
